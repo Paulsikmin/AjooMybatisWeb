@@ -2,4 +2,4 @@
 .settings
 .classpath
 .project
-/META-INF/
+MANIFEST.MF
